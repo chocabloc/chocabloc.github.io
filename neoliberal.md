@@ -1,6 +1,6 @@
 # Empirics
 
-This is not a moral argument -- that would require yet another essay. I have tried to appeal to morality as little as possible, but where I have, it is left without justification.
+This is not a moral argument -- that would require yet another essay. I have tried to appeal to morality as little as possible, but where I have, it is left without justification. 
 
 ## 'Neoliberalism'
 
